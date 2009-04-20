@@ -1,0 +1,6 @@
+Revision history for Perl extension Asterisk::config::syntax.
+
+0.01  Mon Apr 20 11:00:11 2009
+	- original version; created by h2xs 1.23 with options
+		-AX -n Asterisk::config::syntax
+
